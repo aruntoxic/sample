@@ -20,6 +20,8 @@ function App() {
       <h2>this is develop branch</h2>
       <h1>Demo app 5</h1>
       <h2>this is branch b1</h2>
+      <h1>Demo 5 app</h1>
+      <h2>this is branch b2</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
